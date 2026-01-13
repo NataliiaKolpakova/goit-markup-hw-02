@@ -8,7 +8,7 @@ a {
 }
 
 body {
-  font-family: "Roboto" sans-serif;
+  font-family: "Roboto", sans-serif;
   color: #434455;
   background-color: #ffffff;
 }
@@ -104,6 +104,11 @@ body {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #fff;
+}
+
+.button:hover,
+.button:focus {
+  background-color: #404bbf;
 }
 
 .main-features {
