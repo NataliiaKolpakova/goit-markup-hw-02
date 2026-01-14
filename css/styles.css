@@ -62,13 +62,16 @@ body {
 .header-contacts-item {
 }
 
+address {
+  font-style: normal;
+}
 .header-contact-link {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-  font-style: normal;
+  /* font-style: normal; */
 }
 
 .header-contact-link:hover,
@@ -186,7 +189,7 @@ body {
   color: #2e2f42;
 }
 
-.portfolio-desctiption {
+.portfolio-description {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
